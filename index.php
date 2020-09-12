@@ -1,1 +1,1 @@
-<?php header("location: home"); ?>
+<?php header("location: https://wendyamarul.github.io/home/"); ?>
